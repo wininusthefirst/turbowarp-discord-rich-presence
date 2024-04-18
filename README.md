@@ -9,3 +9,5 @@ After that, it continues to update Discord every second and will close itself wh
 
 # Known Issues
 Since this application isn't attached to TurboWarp, you have to start it every time you open TurboWarp, which can get annoying. A fix for that will be coming soon.
+
+macOS Support is currently not working (as far as I know). A fix has not been found and macOS support might just be pulled altogether.
